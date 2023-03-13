@@ -1,0 +1,6 @@
+Term, Election Time, Normal Operations
+3, 48, 743
+4, 58, 463
+5, 43, 460
+6, 55, 732
+7, 55, 14202

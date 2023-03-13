@@ -1,0 +1,12 @@
+[2](C) Initiating Leader Election; term= 2
+Leader[2](C) won the election; term= 2
+diff: 1
+[4](C) Initiating Leader Election; term= 2 at time: 199.3767087720558
+diff: 1
+[4](C) Initiating Leader Election; term= 3 at time: 430.71975042625456
+diff: 1
+[4](C) Initiating Leader Election; term= 4 at time: 714.9248824775619
+diff: 1
+[4](C) Initiating Leader Election; term= 5 at time: 896.2356724038823
+diff: 1
+[4](C)Repeated Election Count is: 5
